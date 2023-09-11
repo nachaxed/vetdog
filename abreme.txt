@@ -1,0 +1,6 @@
+Sistema Veterinaria.V1 PHP MySQL Ajax Jquery Bootstrap.
+ 
+La base de datos se llama vetdog.sql
+Usuario :jjroker
+Contraseña :11111
+
